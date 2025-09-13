@@ -1,6 +1,8 @@
 **WhatsApp Spam Detection – Case Study**
 ![a-digital-illustration-of-a-stylized-sma_oMChRmpOTDOSW-mJbJyrlg_ahnkl6E9TcebDyIW3XJIJw](https://github.com/user-attachments/assets/a7e99743-43ff-4ff8-a82f-b92a5e1e4039)
 
+![1757684725813](https://github.com/user-attachments/assets/b57767ab-3ca8-4e91-b4b0-849f89f8c842)
+
 
 **Project Overview**
 
@@ -137,7 +139,9 @@ Spam Categories:
 
 Special thanks to **Almabetter** for providing the platform to carry out this project and to **Mr. Murtaza Porbunderwala** for his invaluable mentorship,encouragement, and feedback throughout.
 
+**LinkedIn** 
 
+https://www.linkedin.com/posts/almabetter_almabetter-datasciencecourses-softwarengineering-activity-7372264079287185408-c_zS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbSs5QBrM2QFreC_45eyqLLZ9An12235XQ
 
 
 ✨ This repository documents our journey in understanding and modeling how spam detection works on WhatsApp using a data science perspective.
